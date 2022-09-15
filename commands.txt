@@ -1,0 +1,6 @@
+git clone https://github.com/peter-amerkhanian/GitHub-Collaboration-Practice.git
+git checkout -b peter-branch
+nano members.md
+git add *
+git commit -m "Peter's branch"
+git push -u origin peter-branch
