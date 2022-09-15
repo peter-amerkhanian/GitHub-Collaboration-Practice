@@ -1,0 +1,9 @@
+cd Documents
+git clone https://github.com/mdombrow/Computational-Social-Science-Projects
+cd Computational-Social-Science-Projects
+mkdir "Project_1"
+cd Project_1
+touch Text_File.txt
+git add Text_File.txt
+git commit "Part 1 of Project 1, some text from Miriam."
+git push 

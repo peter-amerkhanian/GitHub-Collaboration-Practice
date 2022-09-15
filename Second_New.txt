@@ -1,0 +1,8 @@
+cd Documents/Computational-Social-Science-Projects/Project_1
+git clone https://github.com/peter-amerkhanian/GitHub-Collaboration-Practice
+git checkout -b Miriam_Branch
+git add Second_New.txt
+git commit -m "Miriam's interests and degree info."
+git push -u origin Miriam_Branch
+
+
