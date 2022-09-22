@@ -1,0 +1,15 @@
+git clone https://github.com/mdombrow/Computational-Social-Science-Projects
+cd Computational-Social-Science-Projects
+git checkout -b Julia_branch
+touch command_julia.txt
+git add command_julia.txt
+git add members.md
+git commit -m "Add Julia's info"
+git push -u origin Julia_branch
+
+cd ..
+git clone https://github.com/lizhujulia/julia_zhu.github.io.git
+cd julia_zhu.github.io
+pwd
+touch index.md
+touch projects.md
